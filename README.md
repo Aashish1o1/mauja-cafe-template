@@ -6,7 +6,7 @@ Designed for cafés, coffee shops, bakeries, restaurants and other food business
 
 ## Live Demo
 
-[View Live Demo](YOUR-VERCEL-URL)
+[View Live Demo](https://mauja-cafe-template.vercel.app/)
 
 ## Features
 
